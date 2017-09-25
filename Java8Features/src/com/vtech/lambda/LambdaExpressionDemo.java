@@ -20,6 +20,7 @@ public class LambdaExpressionDemo {
 		namesList.add("Malli");
 		namesList.add("GIT First Push");
 		namesList.add("GIT second Push");
+		namesList.add("change from remote GIT");
 		
 		// code-1,2,3,4 returns same output and exactly same. simplified versions
 		
