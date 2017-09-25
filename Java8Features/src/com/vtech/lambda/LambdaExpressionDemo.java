@@ -18,6 +18,8 @@ public class LambdaExpressionDemo {
 		namesList.add("Abhinav");
 		namesList.add("Rajesh");
 		namesList.add("Malli");
+		namesList.add("GIT First Push");
+		namesList.add("GIT second Push");
 		
 		// code-1,2,3,4 returns same output and exactly same. simplified versions
 		
